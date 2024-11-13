@@ -13,3 +13,11 @@ if(mega != "No social effect") {
   alert("Crisis averted");
 }
 ```
+## Make a to-do list
+- [ ] Afford therapy 
+- [ ] Afford Medication
+- [x] Gain a skill
+- [ ] Get a job
+- [ ] Get a life
+- [ ] Die
+
